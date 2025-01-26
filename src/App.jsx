@@ -41,7 +41,7 @@ useEffect(() => {
     //use ref hook
     <div className="w-full max-w-md mx-auto shadow-md rounded-lg px-4 bg-gray-800 text-orange-500 py-4">
       <h1 className=" text-center text-3xl font-bold underline">
-        laiba abbas
+        saba Akram
       </h1>
       <h1 className="text-white text-center my-3">Password Genertor</h1>
       
